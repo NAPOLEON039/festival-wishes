@@ -1,0 +1,25 @@
+#nav{
+    background-color: rgba(226, 226, 224, 0.55);
+}
+
+#header-friend h3{
+	color: #e4dee5;
+	font-family: sans-serif;
+}
+body{
+	background-image: url(Dussehra.JPG);
+	background-repeat:no-repeat;
+    background-size:cover;
+}
+#header-friend{
+	background: rgba(207, 119, 47, 0.7);
+}
+#sender{
+	color: #e4dee5;
+	padding-right: 50px;
+}
+#heading{
+    font-family: "Courier New", serif;
+    font-size: 18px;
+    color: #000000;
+}
